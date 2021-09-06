@@ -22,6 +22,13 @@ The user can choose between various modes to display the data (map, table, graph
 
 Data will be downloaded in CSV format from the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [(link to data)](https://github.com/CSSEGISandData/COVID-19).
 
+## Demo
+
+
+https://user-images.githubusercontent.com/47510287/132263912-0bff070e-dfc6-45da-a8f9-7d69594be699.mp4
+
+
+
 ### Table Mode
 
 In this mode, the number of COVID-19 deaths and recovered COVID-19 patients are displayed for all locations. Clicking on a column name ("City", "Province/State", "Region", etc.) rearranges the table such that the values in that column are sorted. Clicking once sorts from A-Z order, clicking once more sorts from Z-A order, and clicking a third time clears that column altogether. Additionally, users can filter by names of specific cities, states, or countries in the Filter fields in the left pane. Selecting "Set Filter" after typing in the desired filter will apply selected filters to visible data. 
