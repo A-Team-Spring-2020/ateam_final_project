@@ -1,6 +1,6 @@
 # A-Team28
 
-Course: CS400
+Course: CS 400
 
 Semester: Spring 2020
 
