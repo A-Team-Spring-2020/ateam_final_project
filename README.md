@@ -6,6 +6,13 @@ Semester: Spring 2020
 
 Project name: COVID-19 Data Visualizer
 
+## Demo
+
+
+https://user-images.githubusercontent.com/47510287/132263912-0bff070e-dfc6-45da-a8f9-7d69594be699.mp4
+
+
+
 ## Team Members
 
 1. Ankur Garg, LEC 001, agarg34@wisc.edu, X-Team 113
@@ -21,13 +28,6 @@ This project displays statistics related to coronavirus to provide a better unde
 The user can choose between various modes to display the data (map, table, graph), as well as select which portions of data are shown with the ability to filter by timeframe and location.
 
 Data will be downloaded in CSV format from the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [(link to data)](https://github.com/CSSEGISandData/COVID-19).
-
-## Demo
-
-
-https://user-images.githubusercontent.com/47510287/132263912-0bff070e-dfc6-45da-a8f9-7d69594be699.mp4
-
-
 
 ### Table Mode
 
