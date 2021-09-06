@@ -9,7 +9,8 @@ Project name: COVID-19 Data Visualizer
 ## Demo
 
 
-https://user-images.githubusercontent.com/47510287/132263912-0bff070e-dfc6-45da-a8f9-7d69594be699.mp4
+
+https://user-images.githubusercontent.com/47510287/132264066-5dacd11e-cb1d-4cfd-b0ed-7bb524e58986.mp4
 
 
 
